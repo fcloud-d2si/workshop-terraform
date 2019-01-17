@@ -1,1 +1,1 @@
-Terraform woprkshop
+Terraform workshop
